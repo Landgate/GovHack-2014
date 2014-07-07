@@ -8,3 +8,5 @@ This is currentl a placeholder page to support Landgate's new SLIP services for 
 The resources supporting the [Unearthed Hackathon](https://github.com/Landgate/Unearthed) are quite similar and will give you an idea of how you can use our new SLIP platform in your GovHack project.
 
 http://www.landgate.wa.gov.au/corporate.nsf/web/SLIP+Data+Dictionary
+
+> Sandbox, Dev Environment
