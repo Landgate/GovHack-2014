@@ -1,6 +1,8 @@
 GovHack 2014
 ============
 
+> After our documentation for GovHack 2015? Head on over to https://github.com/Landgate/GovHack-2015 :)
+
 Hi there,
 
 Herein you shall find a collection of resources to help you use Landgate's new SLIP system in your GovHack 2014 project. Our new SLIP platform is based on [Google Maps Engine](https://www.google.com/enterprise/mapsearth/products/mapsengine.html) and is currently in a pre-launch beta.
